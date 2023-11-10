@@ -14,5 +14,5 @@ spec:
     namespace: echoserver
     image: 616652803683.dkr.ecr.eu-north-1.amazonaws.com/controlplane/simplehttpserver:v0.1
     host: acme-platform2.127.0.0.1.nip.io
-    port: 8000
+    port: 8001
 
